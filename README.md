@@ -1,2 +1,6 @@
-# amaya-recommends
-A music recommender build using nearest neighbour and Fast API which recommends you N songs based on the song you give.
+# rec-music
+Music recommender deployed on heroku
+
+## [Medium](https://medium.com/@sdamoosavi/deploy-music-recommender-on-heroku-e0dce3d924ef)
+
+
