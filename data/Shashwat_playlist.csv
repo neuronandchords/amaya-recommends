@@ -1,0 +1,101 @@
+,id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,5mEMOGsjp1Jhn2l0Yt1p3V,Savan,Vilen,['Vilen'],0.609,0.401,4,-12.281,1,0.53,0.0235,0.716,0.373,79.986,233273,4
+1,4NEdR5Yo8D2KwL7Y9KW7EH,Mere Gully Mein (feat. Naezy),DIVINE,"['DIVINE', 'Naezy']",0.744,0.813,9,-7.401,1,0.000514,0.0,0.0685,0.149,108.056,182934,4
+2,5b4bjAPxGu2yS2b8IQpY39,Tu Na Mera,Arjun Kanungo,['Arjun Kanungo'],0.46,0.562,1,-6.83,1,0.832,2.02e-05,0.122,0.463,84.02,221020,4
+3,0TK4vDFDlDH1B5j4NrDZBB,Bey Pinjara,Ankit Tiwari,['Ankit Tiwari'],0.631,0.5,5,-9.573,1,0.622,0.0,0.551,0.635,102.148,198334,4
+4,2qgXrzJsry4KgYoJCpuaul,Choo Lo,The Local Train,['The Local Train'],0.512,0.695,4,-6.349,1,0.0265,0.00815,0.146,0.351,145.957,233630,4
+5,0mHsQ8g61NIao1qGgnkOm1,Ravan,VILEN,['VILEN'],0.697,0.699,10,-5.425,0,0.0499,0.0,0.0961,0.328,120.033,241766,4
+6,4yvrKVY7V0a3pLbNUFbaN4,Shaktimaan,Seedhe Maut,"['Seedhe Maut', 'Sez on the Beat']",0.819,0.439,11,-7.316,1,0.0561,0.0,0.136,0.411,134.874,185778,4
+7,6q8SiNY4DgtWLLVFHdbU3t,Jeet 2.0,Ritviz,['Ritviz'],0.683,0.44,0,-7.08,1,0.418,0.0,0.438,0.83,99.05,186667,4
+8,6l1VsKiMyaUWElFrM1rsuu,Saansein,Prateek Kuhad,['Prateek Kuhad'],0.693,0.518,1,-9.146,1,0.653,0.531,0.138,0.374,128.041,266042,4
+9,6q7bXTv3yBedHblKRoC5uu,Kadam,Prateek Kuhad,['Prateek Kuhad'],0.55,0.356,9,-14.142,1,0.637,0.187,0.32,0.343,159.911,214604,3
+10,4LtSTc3xANVhYeeN69nscM,Aaftaab,The Local Train,['The Local Train'],0.464,0.391,6,-9.884,1,0.755,9.64e-05,0.105,0.418,106.877,233472,4
+11,64RkEV5b7bG697vhIPMlrl,Sage,Ritviz,['Ritviz'],0.663,0.412,5,-8.195,0,0.00434,0.0189,0.215,0.356,98.025,230204,4
+12,6rfahvufEQDIVTHJIU2QQB,"For Aisha (Featured in ""The Sky Is Pink"")",MEMBA,"['MEMBA', 'EVAN GIIA', 'Nooran Sisters']",0.568,0.622,4,-6.548,1,0.063,0.0018,0.56,0.109,76.984,357931,4
+13,2jHicGSFIXm8dUdGz2wwzx,Ek Raat,Vilen,['Vilen'],0.645,0.534,4,-5.428,0,0.147,4.3e-06,0.0858,0.303,90.025,224040,4
+14,28166J872GRW8blR3FL6nb,Kaun Hai Tu,Shah Rule,"['Shah Rule', 'Raja Kumari']",0.741,0.439,1,-5.609,1,0.406,0.0,0.104,0.416,80.245,198030,4
+15,6xzQ1uSk2Rzz6Xdf8xBnWn,City Slums (feat. DIVINE),Raja Kumari,"['Raja Kumari', 'DIVINE']",0.777,0.796,5,-3.528,1,0.00387,1.24e-05,0.0852,0.768,166.97,227990,4
+16,1C9DajYq19423BwN85bNf0,Marijuana,Shamoon Ismail,['Shamoon Ismail'],0.686,0.566,4,-11.567,1,0.159,0.0221,0.104,0.698,94.977,186986,4
+17,5UHvVfewZKxwoB6gdhSFtr,Monta Re,Swanand Kirkire,"['Swanand Kirkire', 'Amitabh Bhattacharya']",0.718,0.295,4,-11.098,1,0.918,0.00454,0.0954,0.751,150.054,237614,3
+18,6ZmtxXUXRVjxOhugKkmerC,Dil Mere,The Local Train,['The Local Train'],0.655,0.473,8,-9.806,1,0.842,0.0323,0.167,0.572,92.962,211290,4
+19,5eR1O5GNIN7kTtfxgg2NFh,Maya,Prabh Deep,"['Prabh Deep', 'Hashbass', 'Archit Anand']",0.852,0.625,9,-4.747,0,0.39,5.1e-05,0.109,0.641,140.003,274424,4
+20,6Qg7dDHVr6jir9LfnMdnBR,Mann Basiya,Dehlvees,['Dehlvees'],0.575,0.549,4,-8.625,1,0.0587,0.234,0.122,0.216,105.035,383004,4
+21,6AEmKrAzWol14hrgbSjgq2,Mahira,Dehlvees,['Dehlvees'],0.595,0.574,9,-7.5,1,0.379,0.0413,0.102,0.326,127.958,297290,4
+22,1lIYP8fDGGnp91OMTUnwjV,Waqt Ki Baatein,Dream Note,['Dream Note'],0.555,0.205,4,-16.452,1,0.916,0.056,0.112,0.216,145.004,243310,3
+23,0TkYij6j4QzpB7MHgFdMeP,Pagal Hai Kya,Fotty Seven,['Fotty Seven'],0.892,0.732,1,-6.158,1,0.0993,0.0,0.0792,0.766,139.986,182742,4
+24,4QK1qv4mgsfdWmMzp1Z3fx,Khoj (Passing By),When Chai Met Toast,['When Chai Met Toast'],0.58,0.636,2,-6.649,1,0.191,0.0313,0.0915,0.38,105.037,212572,3
+25,4QK1qv4mgsfdWmMzp1Z3fx,Khoj (Passing By),When Chai Met Toast,['When Chai Met Toast'],0.58,0.636,2,-6.649,1,0.191,0.0313,0.0915,0.38,105.037,212572,3
+26,4BKlZ0UQOjombKzFFkgSlm,Mila Hai Jabse Tu,Ashwin Adwani,['Ashwin Adwani'],0.714,0.405,1,-11.358,0,0.819,1.04e-05,0.0884,0.441,119.958,200266,4
+27,0utckWY4eeZAfNL3LCiGdy,Main Chahta hun,Swastik The Band,['Swastik The Band'],0.602,0.564,4,-6.164,0,0.381,0.132,0.118,0.189,129.973,349922,4
+28,6Kynli1iHBqJRWUCohcV9h,Kaam 25 - Sacred Games,DIVINE,['DIVINE'],0.484,0.948,1,-4.296,0,0.0473,0.0,0.0565,0.686,125.645,149525,5
+29,5VSJ9OfZx8V91A7u8Fuoh1,Aaoge Tum Kabhi,The Local Train,['The Local Train'],0.534,0.863,0,-4.616,1,0.0152,0.0167,0.144,0.374,98.006,313163,4
+30,5iCY0TXNImK4hyKfcplQsg,Baarishein,Anuv Jain,['Anuv Jain'],0.475,0.124,2,-9.463,1,0.926,0.0,0.0972,0.19,94.42,207310,4
+31,3Gc4zbfvgZSBEfpd0aWEFb,Khudi,The Local Train,['The Local Train'],0.626,0.791,3,-6.502,1,0.0196,9.08e-05,0.106,0.538,127.037,297643,4
+32,6nZiYSBwPQ7fYnVWkkkj4g,Kho Gaye Hum Kahan,Jasleen Royal,"['Jasleen Royal', 'Prateek Kuhad']",0.778,0.227,1,-16.191,1,0.983,0.14,0.113,0.38,116.033,213056,4
+33,4kXkT9HF9ZfDjuv3LIKcwJ,"Dil Beparvah - The Dewarists, Season 5",Ankur Tewari,"['Ankur Tewari', 'Prateek Kuhad', 'Dhruv Bhola', 'Nikhil Vasudevan']",0.762,0.391,1,-11.735,1,0.867,0.000521,0.112,0.355,137.956,250000,3
+34,6JHm7Da8ZX0KA5xZhXiaB2,Lost Without You,Ami Mishra,"['Ami Mishra', 'Anushka Shahaney']",0.543,0.723,1,-5.326,0,0.466,0.0,0.0738,0.292,145.779,336037,4
+35,0OMETVKtbSo60jaunOVNl5,Stay A Little Longer,Anushka Shahaney,['Anushka Shahaney'],0.543,0.377,1,-7.609,1,0.722,0.0,0.11,0.292,90.024,302340,4
+36,1gWtHDe403RuyZqhvSRcv8,Tune Kaha,Prateek Kuhad,['Prateek Kuhad'],0.362,0.763,3,-8.514,1,0.015,0.00481,0.237,0.431,187.291,216886,4
+37,0defKES0cQIsig27CpfPWx,Baatein Karo,Vayu,['Vayu'],0.76,0.551,6,-7.273,1,0.85,0.000713,0.154,0.768,106.046,195309,3
+38,3Frn3MJRQFvjCIbTbBUZCS,Jahaan Tu Chala,Jasleen Royal,['Jasleen Royal'],0.459,0.187,2,-15.631,1,0.879,0.00488,0.126,0.379,111.829,140305,4
+39,6GT0oiQdjiYX91qgAMi7Vd,Nit Nit,Jasleen Royal,['Jasleen Royal'],0.442,0.412,10,-10.675,1,0.781,0.0237,0.15,0.235,176.019,246136,4
+40,1TQZN2XJ7Igg6dybRsETfd,Gal Karke,Punjabi Tracks,"['Punjabi Tracks', 'Asees Kaur']",0.641,0.542,10,-8.048,1,0.756,0.0,0.146,0.443,156.172,180489,4
+41,3uHisD8WxXOYLaxeOl098L,Teri Khair Mangdi,Bilal Saeed,['Bilal Saeed'],0.718,0.58,2,-5.149,0,0.602,0.0,0.196,0.31,97.979,225274,4
+42,4iwLV4Fn3xXrkjU9b9GHK0,Look at the Lights,Vidya Vox,['Vidya Vox'],0.451,0.458,0,-9.071,0,0.696,0.0189,0.18,0.396,184.2,190000,4
+43,7EPMILezRmD7gHhgx11e7k,Thandi Hawa,Ritviz,['Ritviz'],0.628,0.555,1,-12.152,0,0.0566,0.0111,0.16,0.518,194.815,203077,4
+44,5gUQQHs7FszYDEx33swHqb,Poorna Swaraj,RollsRoy's,"[""RollsRoy's""]",0.726,0.424,0,-7.03,0,0.123,0.0,0.088,0.551,82.02,247958,4
+45,6Hp2DLVDAHlLsh5y7pyrAg,Off,Vilen,['Vilen'],0.767,0.462,4,-8.567,0,0.0723,1.12e-06,0.0837,0.675,88.644,162000,4
+46,2kRW9l26uGIrTrHkLTiYnM,Koi Nahi,Rupinn,"['Rupinn', 'Lisa Mishra']",0.705,0.735,8,-5.783,1,0.123,0.0,0.147,0.411,95.972,190745,4
+47,3OhzHDnzyptJLdhShZhjtH,Kya Karoon,Shlok Chiplunkar,"['Shlok Chiplunkar', 'Dorwin John']",0.558,0.339,1,-12.449,0,0.339,0.00729,0.296,0.0977,108.761,270422,3
+48,4nKc9yiwXWlEByq1oMfHU6,Dooriyan (feat. Kaprila),Dino James,"['Dino James', 'Kaprila']",0.778,0.474,9,-10.109,1,0.528,0.0,0.104,0.219,91.969,215217,4
+49,7mNZUnDWUDidWBFaUpVtOC,Chidiya,Vilen,['Vilen'],0.486,0.494,6,-8.56,1,0.715,0.0,0.109,0.414,179.975,253333,4
+50,1qIgUd06MYNCmLQSJCerT8,Rataan,Vilen,['Vilen'],0.739,0.355,5,-9.618,0,0.392,0.00218,0.0996,0.949,174.055,185000,4
+51,5wfU3eM43UptY57VigdHzh,Be Free,Vidya Vox,['Vidya Vox'],0.724,0.639,3,-5.581,0,0.0476,8.36e-06,0.0595,0.602,95.039,207604,4
+52,4MAUUamUaxrhu66DVTJg3c,Diamonds,Vidya Vox,"['Vidya Vox', 'Arjun']",0.437,0.7,2,-5.116,0,0.0176,0.0,0.17,0.349,132.64,185011,4
+53,2pqPH34BNK9eTi2TBVSExL,Kuthu Fire,Vidya Vox,['Vidya Vox'],0.52,0.916,0,-3.616,0,0.0206,0.00101,0.0846,0.439,119.991,205118,3
+54,1SoWan3koruhiath0MWbGn,Don't Let Me Down,Kurt Hugo Schneider,"['Kurt Hugo Schneider', 'Vidya Vox']",0.575,0.617,8,-6.665,0,0.0663,7.17e-05,0.0776,0.223,159.989,148875,4
+55,2Yvo61WicgVinjoUOthyjx,Mad Dreams,Vidya Vox,['Vidya Vox'],0.656,0.722,6,-7.324,1,0.126,0.00129,0.123,0.688,151.953,191053,4
+56,5Lg2nrdJNT9JMQqzaDv5aq,Fly Away,Vidya Vox,"['Vidya Vox', 'Maati Baani']",0.631,0.537,0,-9.171,1,0.14,0.0,0.1,0.455,99.1,242386,3
+57,3FTRSa9mWB3kKx2jkhUAN3,Tum Jab Paas,Prateek Kuhad,['Prateek Kuhad'],0.751,0.344,6,-7.712,1,0.528,1.62e-06,0.113,0.471,122.1,235932,3
+58,5cJJdUtacwBrphoMjh3tKG,Believe,When Chai Met Toast,['When Chai Met Toast'],0.25,0.618,2,-7.705,1,0.16,0.0169,0.109,0.12,66.632,236700,4
+59,2mv5anj69awqE6R936e0hZ,Barso,Ritviz,['Ritviz'],0.536,0.829,2,-6.831,1,0.0265,0.00659,0.124,0.0379,140.045,257143,4
+60,3WBsWNtL054HCFz7UUGK9e,Teri Ay,Umer Farooq,['Umer Farooq'],0.666,0.455,9,-9.428,1,0.618,0.0016,0.127,0.273,100.008,232800,4
+61,669PEr8I3wOswY8BANBpdh,Shaayad,Taba Chake,['Taba Chake'],0.606,0.472,8,-8.525,1,0.685,1.11e-05,0.114,0.439,94.972,208000,4
+62,26u6HGjzExhRZD5ifgTBnG,Dil Haare,Ankur Tewari,"['Ankur Tewari', 'The Ghalat Family']",0.625,0.576,9,-7.976,1,0.175,0.0023,0.127,0.422,128.059,268513,4
+63,3TaoFBplKZB4AclYV2cDwT,Firefly,When Chai Met Toast,['When Chai Met Toast'],0.533,0.828,11,-5.533,1,0.161,0.00242,0.0588,0.391,79.947,218000,4
+64,4ye8U0982eHtlhlvePpxtP,Jeet,Ritviz,['Ritviz'],0.787,0.734,0,-6.464,1,0.357,0.00101,0.0625,0.634,98.989,184848,4
+65,7eQl3Yqv35ioqUfveKHitE,Tum Se Hi,Mohit Chauhan,['Mohit Chauhan'],0.609,0.538,6,-7.842,1,0.328,0.0,0.125,0.608,130.007,321225,4
+66,66Nmp3ztIMqX1j8yYtWl1X,Liggi,Ritviz,['Ritviz'],0.786,0.667,5,-8.272,1,0.0112,0.0533,0.074,0.688,102.05,181176,4
+67,3cFbAzmdJFaHWQpJEg2n7h,Manzil,The Local Train,['The Local Train'],0.517,0.875,11,-4.288,1,0.000112,0.00633,0.158,0.44,124.965,260629,4
+68,6IskNuvBwK8YzFrjvXIp5h,Yeh Zindagi Hai,The Local Train,['The Local Train'],0.633,0.616,9,-7.395,1,0.126,0.0,0.078,0.7,131.072,249160,4
+69,6wxm92a18bGEP5N4QusCIx,Mere Yaar,The Local Train,['The Local Train'],0.343,0.508,2,-9.748,1,0.191,0.000374,0.278,0.3,78.131,286720,4
+70,02sas1xqIwRm7iWSoHDvKe,Oh Love,Prateek Kuhad,['Prateek Kuhad'],0.633,0.743,7,-8.029,1,0.29,0.00696,0.0629,0.548,176.021,211193,4
+71,25VBJM8MADuhjaHRnqFrvV,Into the Night,Prateek Kuhad,['Prateek Kuhad'],0.847,0.489,10,-7.926,1,0.494,0.0,0.071,0.839,120.018,183228,4
+72,2sHwSBNDZN2yjCtgwStYt1,Crush Culture,Conan Gray,['Conan Gray'],0.522,0.765,0,-5.395,1,0.146,0.0,0.0866,0.455,180.065,204120,4
+73,2h07BXr794JGyJaRsnEx6l,Sang Hoon Tere,Bhuvan Bam,['Bhuvan Bam'],0.623,0.761,9,-5.774,1,0.203,0.0,0.15,0.542,119.958,274195,4
+74,3V3PN2Rs7qjVcnBi60QdMb,with you/for you,Prateek Kuhad,['Prateek Kuhad'],0.732,0.309,6,-13.796,1,0.811,0.175,0.106,0.322,114.095,231898,4
+75,3FrrdMIPRwHTu5DEBtVhjL,Ab Hoga Kya,Prateek Kuhad,['Prateek Kuhad'],0.869,0.458,11,-8.123,1,0.495,0.0112,0.0706,0.488,133.943,254302,4
+76,6p2ETO3UZ6egP7bFFnQXyi,Tere Utte,RISH,"['RISH', 'Moit']",0.643,0.41,11,-6.52,1,0.851,0.0,0.192,0.301,80.296,147000,4
+77,1ITDFrvrbYUOYy24oC9gVS,Yeh Beetey Din (acoustic version),Ram Sampath,['Ram Sampath'],0.674,0.692,4,-5.057,1,0.39,0.0,0.219,0.597,99.989,213600,4
+78,0PKEQjnGn0LmPjozJ3t4MF,Main Bola Hey!,Karthik Rao,['Karthik Rao'],0.646,0.33,0,-14.582,1,0.75,0.000384,0.123,0.499,84.995,153000,4
+79,2GXs2rslAN5rzAZq4y5Knw,Chahat,Zack Knight,['Zack Knight'],0.699,0.465,0,-7.238,1,0.525,2.09e-06,0.126,0.499,97.898,198367,4
+80,2AoWWiMelowkStJoqPMDed,cold/mess,Prateek Kuhad,['Prateek Kuhad'],0.509,0.479,11,-6.601,1,0.285,0.0175,0.167,0.299,145.967,281219,3
+81,2KDR0VRWbQ88LQ1cdi8T3z,Dilnawaz,The Local Train,['The Local Train'],0.501,0.568,4,-7.968,0,0.217,1.64e-05,0.094,0.236,88.904,207531,4
+82,4LX8OArGCZ3hS0imHepe83,Aao Chalein,Taba Chake,['Taba Chake'],0.705,0.639,10,-7.367,1,0.131,0.0298,0.222,0.825,127.502,185305,4
+83,5giETs7WBuIGyadCPo5Qvp,Rasta Jahaan Le Chale,Papon,['Papon'],0.613,0.689,0,-6.457,1,0.283,0.00024,0.0932,0.406,97.985,185510,4
+84,1uC8CoidgacQzx9f01n73h,"I Love You Baby, I Love You Doll",Parekh & Singh,['Parekh & Singh'],0.721,0.418,4,-11.315,1,0.305,1.4e-06,0.277,0.651,94.935,169987,4
+85,3PMQvsVUEOMWsEGsSGG0aA,Marz,The Yellow Diary,['The Yellow Diary'],0.433,0.599,9,-7.293,1,0.479,2.04e-06,0.12,0.338,71.798,222579,4
+86,67mmy7Mhim6DmeFHHoqptH,Aakhri Salaam,The Local Train,['The Local Train'],0.467,0.651,4,-8.507,1,0.147,0.000241,0.196,0.492,173.922,277433,4
+87,3gJxSEQtZ08xpRuAMdynHW,Dheere Se,The Yellow Diary,['The Yellow Diary'],0.584,0.548,8,-10.19,1,0.669,0.0036,0.164,0.386,160.002,198000,4
+88,4BL4aEbddW0OGv6fFYYFUt,Ocean,Anuv Jain,['Anuv Jain'],0.72,0.237,3,-11.665,1,0.963,0.0,0.0952,0.606,125.335,252630,4
+89,0h0gWburhWxIhV9h7kyX3l,Jogi,Swastik The Band,['Swastik The Band'],0.55,0.648,2,-6.5,0,0.276,9.72e-05,0.069,0.352,80.03,376855,4
+90,0ke4LdLYRcNHY03nlYyN47,Kaisey Jiyun - Acoustic,The Local Train,['The Local Train'],0.556,0.453,3,-7.798,1,0.122,0.0,0.0802,0.324,143.914,219583,4
+91,40rO5T5aZa0MlgzCetTRTn,Run Closer,When Chai Met Toast,['When Chai Met Toast'],0.644,0.609,11,-6.442,1,0.168,0.00971,0.225,0.237,107.022,202600,4
+92,0bO9mhJpH5R5ixn9Gv8F6O,Nikamma,Lifafa,['Lifafa'],0.715,0.676,6,-11.895,1,0.483,0.00185,0.102,0.468,181.859,211788,4
+93,0vCxpIQ1ypPPasPuksuKBX,Vaaqif,The Local Train,['The Local Train'],0.542,0.499,1,-8.976,1,0.195,0.0121,0.135,0.158,117.01,380928,4
+94,6wZJsut8fjiWiMPaccRAOX,Udd Gaye - Bacardi House Party Sessions,Ritviz,['Ritviz'],0.595,0.818,11,-6.189,0,0.000712,0.0386,0.142,0.48,144.956,180414,4
+95,5lTmnG1YK1fEDpegC82pKn,Drum Machine,Parekh & Singh,['Parekh & Singh'],0.792,0.448,6,-9.398,0,0.708,4.24e-06,0.114,0.732,120.015,165763,4
+96,4Y5u8o85oc78AAxELQbK1b,Sunbeam,Parekh & Singh,['Parekh & Singh'],0.635,0.522,1,-8.944,1,0.135,0.0109,0.291,0.33,115.931,165880,4
+97,5Br8K1CLLVB7AuuM0t4G7r,Preet,Jasleen Royal,['Jasleen Royal'],0.577,0.559,10,-7.048,0,0.729,0.013,0.171,0.529,167.927,303673,4
+98,1qH5qFrodoycQXF97LV2I1,Tu Jo Paas,Suzonn,['Suzonn'],0.654,0.0668,7,-24.557,1,0.984,7.92e-06,0.115,0.379,139.889,212571,4
+99,7d2nVsMdCTfmCvIGfhJW4Y,Teri Meri Kahani,Bhuvan Bam,"['Bhuvan Bam', 'Permanent Roommates']",0.797,0.64,7,-9.297,1,0.506,0.000107,0.151,0.491,100.016,220000,4

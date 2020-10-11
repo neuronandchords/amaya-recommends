@@ -1,0 +1,101 @@
+,id,title,first_artist,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,5imfeeK84IEoXy3f4JKxdB,Wild,The Japanese House,['The Japanese House'],0.566,0.453,1,-9.157,0,0.544,0.00927,0.113,0.172,129.97,223320,4
+1,3Ri5PVHQ3VacOyPT4Pij62,SAYONARA,Aries,['Aries'],0.548,0.63,5,-6.1,1,0.0111,0.000721,0.128,0.338,75.972,180789,4
+2,6PGoSes0D9eUDeeAafB2As,LOVE. FEAT. ZACARI.,Kendrick Lamar,"['Kendrick Lamar', 'Zacari']",0.8,0.585,10,-7.343,1,0.264,0.0,0.153,0.779,126.058,213400,4
+3,4RoArPM0AsuW3h8hW8xtnr,Lucky Strike,Troye Sivan,['Troye Sivan'],0.612,0.694,2,-7.363,1,0.579,0.0,0.0914,0.564,103.031,208967,4
+4,0sP7R1Iue2uaVE9HNzgSID,Teeth,The Japanese House,['The Japanese House'],0.371,0.377,4,-9.979,1,0.694,0.5,0.0986,0.111,126.745,236438,4
+5,2tk2r9eULnbd7OT9PDFfg6,Tigerblood,Vistas,['Vistas'],0.43,0.882,2,-4.305,1,0.000103,3.68e-06,0.138,0.448,170.023,200709,4
+6,2DSsf1Ak5hzpM2sPlZsGMG,set u off (365),underscores,['underscores'],0.75,0.413,8,-7.858,0,0.376,0.00321,0.263,0.541,93.791,246157,4
+7,3Xuhi20r1A2FGQHAisL551,Voices,Flume,"['Flume', 'SOPHIE', 'KUČKA']",0.567,0.758,9,-3.998,1,0.0937,0.00249,0.601,0.242,133.687,114645,4
+8,2vIwwTufmg8YfZn5qvzxIg,Clean,The Japanese House,['The Japanese House'],0.443,0.525,2,-8.07,1,0.566,0.000184,0.231,0.171,130.982,299545,4
+9,5BqvGsg4foTngD67rNlay1,"Class-Sikh Maut, Vol. II",Prabh Deep,"['Prabh Deep', 'Seedhe Maut', 'Sez on the Beat']",0.855,0.68,8,-8.041,1,0.0601,0.0,0.0417,0.818,129.842,142163,4
+10,7p0tz5SeCrSxTLSvwR8W3D,Let You Know,Flume,"['Flume', 'London Grammar']",0.759,0.694,5,-4.075,0,0.0544,0.0,0.131,0.374,117.056,199580,4
+11,7COXchtUOMd6uIT6HvmRaI,i'm so tired...,Lauv,"['Lauv', 'Troye Sivan']",0.599,0.733,11,-7.058,1,0.176,0.0,0.242,0.534,102.211,162583,4
+12,3RpwjGzgb8QAuOnZbdDZZs,Lilo,The Japanese House,['The Japanese House'],0.546,0.558,7,-8.797,1,0.471,0.0,0.0957,0.22,119.789,250067,4
+13,5aMYIxnTTVIGxdey7ULrRL,My Girl,Oshi,['Oshi'],0.371,0.565,8,-8.045,1,0.115,0.0,0.199,0.191,119.299,215300,4
+14,2AoWWiMelowkStJoqPMDed,cold/mess,Prateek Kuhad,['Prateek Kuhad'],0.509,0.479,11,-6.601,1,0.285,0.0175,0.167,0.299,145.967,281219,3
+15,0AGeiZaDptA2bmbaFdWr9l,Behka Na,Ali Tariq,"['Ali Tariq', 'Harshdeep Kaur']",0.597,0.7,3,-6.321,1,0.338,4.79e-05,0.127,0.228,114.03,263684,4
+16,2NLuFrdfo1i9O82AiRBwT9,Cool Blue,The Japanese House,['The Japanese House'],0.383,0.569,0,-10.407,1,0.883,0.106,0.124,0.524,180.036,231364,3
+17,4qjLvvBh5ZeKEPyShKRf06,Narcissist (feat. The 1975),No Rome,"['No Rome', 'The 1975']",0.543,0.682,3,-5.81,1,0.219,1.53e-06,0.085,0.424,179.972,195502,4
+18,51NFxnQvaosfDDutk0tams,bellyache,Billie Eilish,['Billie Eilish'],0.695,0.573,4,-8.597,0,0.46,0.0734,0.482,0.408,99.939,179172,4
+19,3j1fOrxmfuym91Cf9v397b,Warpaint,88rising,"['88rising', 'NIKI']",0.68,0.658,1,-5.356,1,0.082,0.0324,0.109,0.278,128.921,213788,4
+20,5Y4vRBs4QCUloQ5W9Wb58j,Moon Child,The F16s,['The F16s'],0.606,0.713,9,-5.987,1,0.0568,0.00262,0.0814,0.549,120.016,279841,4
+21,4yvrKVY7V0a3pLbNUFbaN4,Shaktimaan,Seedhe Maut,"['Seedhe Maut', 'Sez on the Beat']",0.819,0.439,11,-7.316,1,0.0561,0.0,0.136,0.411,134.874,185778,4
+22,5bCDC7qkmxiJc0lPsqiALj,Let Me Live / Let Me Die,Des Rocs,['Des Rocs'],0.51,0.759,9,-4.854,1,0.034,0.0,0.077,0.237,91.123,207142,4
+23,1B3x1uT4WMuFD84IxcOiki,Candid,Kllo,['Kllo'],0.746,0.75,11,-7.276,0,0.344,0.0468,0.0771,0.453,144.027,243511,4
+24,3llC7WjMtxqDwaM1Gjzvrs,Face Like Thunder,The Japanese House,['The Japanese House'],0.636,0.742,0,-6.751,1,0.233,3.87e-05,0.185,0.285,119.951,237427,4
+25,6PmsHVre2N9yOjDge00r9c,Hesitate,Golden Vessel,"['Golden Vessel', 'Emerson Leif']",0.406,0.53,2,-9.556,1,0.739,0.0161,0.108,0.0701,122.773,251279,4
+26,1v9XPjtlSMF1EkMRgkB2No,Moon,Donnie Castle,['Donnie Castle'],0.549,0.726,5,-6.786,1,0.0123,0.513,0.0967,0.233,109.956,268293,4
+27,11p45DXn2eSqcBtcAsWT0k,Leaning On Myself,Anna of the North,['Anna of the North'],0.699,0.55,0,-7.397,1,0.461,1.4e-05,0.128,0.707,130.027,196273,4
+28,3FTRSa9mWB3kKx2jkhUAN3,Tum Jab Paas,Prateek Kuhad,['Prateek Kuhad'],0.751,0.344,6,-7.712,1,0.528,1.62e-06,0.113,0.471,122.1,235932,3
+29,5ossLri0sAPCRdg7wbKi43,Something Has to Change,The Japanese House,['The Japanese House'],0.702,0.565,9,-8.863,1,0.216,4.78e-06,0.117,0.355,125.019,191200,4
+30,6HfVKTa0AA4k49FqXtxd3S,Man on the Moon,Zella Day,['Zella Day'],0.43,0.867,8,-4.869,1,0.0271,3.07e-06,0.106,0.571,74.988,242417,4
+31,2P7O90JwqbBlsJI26miqNa,Twentythousand,EXES,['EXES'],0.514,0.362,11,-9.033,1,0.0991,5.77e-06,0.418,0.138,99.402,192026,4
+32,7cS9IvXSnBflaPOMpYlvQ5,Firelight,Hundred Waters,['Hundred Waters'],0.302,0.415,2,-7.23,1,0.326,3.25e-05,0.121,0.145,107.854,271813,3
+33,6XVDZoNVGvWhfSoqQhjJZI,Mythological Beauty,Big Thief,['Big Thief'],0.629,0.579,10,-8.544,1,0.301,0.22,0.116,0.475,106.673,306760,4
+34,7FVGIPgLMDChTffvG2LuHV,Holy,King Princess,['King Princess'],0.614,0.585,10,-9.483,1,0.134,0.000129,0.0948,0.211,169.905,174667,4
+35,40rvBMQizxkIqnjPdEWY1v,Down with the Sickness,Disturbed,['Disturbed'],0.695,0.876,3,-4.262,0,0.000996,6.89e-06,0.106,0.941,89.954,279213,4
+36,3k458zzqcF9UeRfZqRbZYr,Raat Raazi,Prateek Kuhad,['Prateek Kuhad'],0.481,0.254,4,-10.642,1,0.756,0.372,0.103,0.138,105.418,286957,4
+37,0BezB2NH80dqPizOqw8I7S,Colder When It Rains,X Lovers,['X Lovers'],0.709,0.651,5,-4.762,1,0.203,0.0,0.127,0.589,84.932,174102,4
+38,0og9wKFGgFFNQnrBe7eisG,Uff Teri Adaa,Shankar Mahadevan,"['Shankar Mahadevan', 'Alyssa Mendonsa']",0.647,0.792,2,-9.815,1,0.00536,5.82e-05,0.054,0.306,132.032,304089,4
+39,0nhBKubnVz9yFNNprBniWz,YOUTH,Troye Sivan,['Troye Sivan'],0.628,0.737,7,-4.437,1,0.0625,0.0,0.0777,0.592,91.507,185194,4
+40,0iJjBJxZiU6ztK2AUl970Y,She Kill Me Softly Laughing When I Hit the Blunt & I Be Coughing,Smrtdeath,['Smrtdeath'],0.607,0.69,0,-8.685,1,0.0161,0.0,0.214,0.442,125.936,152381,3
+41,45045fi8RzRxvU9bImb6xp,moniker,underscores,['underscores'],0.658,0.191,9,-11.808,0,0.684,0.000329,0.221,0.463,137.948,97391,4
+42,6q8SiNY4DgtWLLVFHdbU3t,Jeet 2.0,Ritviz,['Ritviz'],0.683,0.44,0,-7.08,1,0.418,0.0,0.438,0.83,99.05,186667,4
+43,1ImSaJvKCQ0Gewcdx1KzF8,Aldrig Mer (feat. TENDER),Kasbo,"['Kasbo', 'TENDER']",0.359,0.774,7,-5.789,1,0.0649,0.104,0.11,0.141,184.739,243919,4
+44,73kadnv7SduzhApfRUv5C0,hey you got drugs?,Tove Lo,['Tove Lo'],0.625,0.706,9,-4.604,1,0.301,0.0,0.0735,0.273,123.019,258033,4
+45,1R0dKbAtlVgmm8gviOTJID,pity points,underscores,['underscores'],0.763,0.411,0,-9.629,1,0.282,0.622,0.553,0.181,137.992,226522,1
+46,64RkEV5b7bG697vhIPMlrl,Sage,Ritviz,['Ritviz'],0.663,0.412,5,-8.195,0,0.00434,0.0189,0.215,0.356,98.025,230204,4
+47,2MnEG4htbbdfoUsyzxZ4BM,Throwaway (with Clairo),SG Lewis,"['SG Lewis', 'Clairo']",0.789,0.49,2,-6.588,1,0.784,0.000598,0.112,0.869,140.034,180000,4
+48,66rWVbv4474MqWUeiWudIp,Your Door,Dear Leo,['Dear Leo'],0.533,0.479,1,-11.606,1,0.306,0.0607,0.126,0.0392,145.945,302246,4
+49,6exPfsexVWEsVf8MHsmASw,Dreamtime,Flume,['Flume'],0.296,0.74,1,-6.272,1,0.609,0.914,0.115,0.17,153.794,134449,5
+50,3Gc4zbfvgZSBEfpd0aWEFb,Khudi,The Local Train,['The Local Train'],0.626,0.791,3,-6.502,1,0.0196,9.08e-05,0.106,0.538,127.037,297643,4
+51,1ypAxj1vxOspuVRf6SOwC9,Quick Love,Fantom '87,"[""Fantom '87""]",0.57,0.738,8,-9.089,1,0.0059,0.0764,0.0885,0.11,109.979,303903,4
+52,6l1VsKiMyaUWElFrM1rsuu,Saansein,Prateek Kuhad,['Prateek Kuhad'],0.693,0.518,1,-9.146,1,0.653,0.531,0.138,0.374,128.041,266042,4
+53,6VrCmhRBFnuGKmtNfk4jDs,Spotlight,Marshmello,"['Marshmello', 'Lil Peep']",0.546,0.822,7,-4.483,1,0.0145,0.0,0.742,0.615,150.06,177600,4
+54,1X0ndivnYmiD54hxQ5DALW,voice of reason,underscores,['underscores'],0.611,0.364,4,-10.044,0,0.343,0.0757,0.138,0.19,140.088,246429,4
+55,6q7Tz67loOULIPEXo941hk,Crush,Tessa Violet,['Tessa Violet'],0.91,0.401,1,-9.552,1,0.0302,0.000159,0.0801,0.824,135.994,216267,4
+56,7oZfFzJqxCnziFwUnv1pip,Somebody you found,The Japanese House,['The Japanese House'],0.672,0.54,9,-8.565,1,0.833,7.25e-05,0.145,0.41,119.989,213632,4
+57,1qIgUd06MYNCmLQSJCerT8,Rataan,Vilen,['Vilen'],0.739,0.355,5,-9.618,0,0.392,0.00218,0.0996,0.949,174.055,185000,4
+58,2zoNNEAyPK2OGDfajardlY,Rushing Back,Flume,"['Flume', 'Vera Blue']",0.574,0.612,0,-4.741,1,0.357,0.0,0.158,0.368,136.046,231663,3
+59,0Lw6aQcBFWTQ9m4MSwwwes,Homicide,Logic,"['Logic', 'Eminem']",0.722,0.764,10,-5.656,0,0.145,0.0,0.171,0.796,139.831,245413,4
+60,2Sa4NFRhgXBWIe8uuykXHm,Particle,Hundred Waters,['Hundred Waters'],0.462,0.599,11,-7.069,1,0.43,7.47e-05,0.0964,0.42,126.006,265800,4
+61,1Dp7JGFNjvg8Nk0CtMCcnr,Hard Feelings/Loveless,Lorde,['Lorde'],0.487,0.445,1,-10.959,0,0.0328,0.0104,0.0778,0.18,97.031,367391,4
+62,3Y8JSCYjFznthCYb5HZ8lW,Friends,Flume,"['Flume', 'Reo Cragun']",0.628,0.668,1,-5.935,0,0.288,0.0,0.622,0.347,138.865,223910,4
+63,5mEMOGsjp1Jhn2l0Yt1p3V,Savan,Vilen,['Vilen'],0.609,0.401,4,-12.281,1,0.53,0.0235,0.716,0.373,79.986,233273,4
+64,2Cdvbe2G4hZsnhNMKyGrie,I Love Rock 'N Roll,Joan Jett & The Blackhearts,['Joan Jett & The Blackhearts'],0.535,0.716,4,-5.025,1,0.326,0.0,0.659,0.901,94.379,175173,4
+65,6K8VQ84MqhsoakN5MjrnVR,Supercut,Lorde,['Lorde'],0.562,0.437,0,-10.229,1,0.219,2.18e-05,0.0806,0.15,124.852,277506,4
+66,7cPO2IPraPDlGIguekShlV,Jewel,Flume,['Flume'],0.464,0.496,0,-6.688,1,0.163,0.000501,0.783,0.0803,113.317,193732,4
+67,1MTanOR2Kts7au3HtM0nez,Stole Your Car,Charlotte Lawrence,['Charlotte Lawrence'],0.659,0.712,7,-5.61,0,0.0729,3.04e-05,0.367,0.202,101.034,215786,4
+68,2AF5Kzxb4pz7j79Ity84pP,Night Shift,Lucy Dacus,['Lucy Dacus'],0.48,0.31,9,-7.887,1,0.312,1.47e-05,0.113,0.16,86.149,391829,4
+69,43zdsphuZLzwA9k4DJhU0I,when the party's over,Billie Eilish,['Billie Eilish'],0.367,0.111,4,-14.084,1,0.978,3.97e-05,0.0897,0.198,82.642,196077,4
+70,7CGeuhEwxg4edNO5eLLCxm,Spring,Flume,"['Flume', 'Eprom']",0.548,0.482,4,-5.5,0,0.046,0.177,0.117,0.184,60.352,217401,4
+71,5z4TlJ5NN7OQfEBq0InOvM,Is It Cold In The Water? - Flume & Eprom Remix,SOPHIE,"['SOPHIE', 'Eprom', 'Flume']",0.202,0.694,1,-6.974,0,0.000657,0.000289,0.483,0.152,158.865,287331,5
+72,3gYK7eEFbp6KzmqYRMyQRm,Death Of A Hero,Alec Benjamin,['Alec Benjamin'],0.653,0.62,11,-5.797,1,0.634,5.46e-06,0.512,0.584,179.8,191560,3
+73,2bDENJyfbxj0neGiXUFvIX,Legendary,Welshly Arms,['Welshly Arms'],0.537,0.656,11,-5.863,0,0.0458,2.54e-06,0.112,0.45,141.873,232173,4
+74,0ey919whlLSELPSw6cItG6,71m3,Flume,['Flume'],0.594,0.712,0,-7.456,1,0.0451,0.000137,0.647,0.35,135.697,80126,4
+75,3hkC9EHFZNQPXrtl8WPHnX,Agar Tum Saath Ho,Alka Yagnik,"['Alka Yagnik', 'Arijit Singh']",0.562,0.519,3,-8.744,1,0.557,0.000268,0.172,0.415,122.925,341055,4
+76,3XF5xLJHOQQRbWya6hBp7d,you should see me in a crown,Billie Eilish,['Billie Eilish'],0.678,0.533,4,-10.485,1,0.462,0.219,0.139,0.323,150.455,180953,4
+77,3GiATQvWjVECEQVEMsgQlc,Stutter,Donnie Castle,['Donnie Castle'],0.54,0.867,0,-7.885,1,0.335,0.806,0.0954,0.0315,110.004,209293,4
+78,3juuzbZaFWqOLrteOPOX9l,Closest To Me,Liza Anne,['Liza Anne'],0.587,0.479,6,-7.013,1,0.321,0.000925,0.0637,0.394,100.003,253893,4
+79,1BYZxKSf0aTxp8ZFoeyM3d,we fell in love in october,girl in red,['girl in red'],0.566,0.366,7,-12.808,1,0.113,0.181,0.155,0.237,129.959,184154,4
+80,6NOq79ynBpBi6BSJMdgReN,Ocean Eyes - Astronomyy Remix,Billie Eilish,"['Billie Eilish', 'Astronomyy']",0.594,0.481,4,-8.525,0,0.629,0.0126,0.0939,0.0671,144.941,296267,4
+81,1bLz3Mcy1pf1W04KZBWrHk,Due West - Skrillex Remix,Kelsey Lu,"['Kelsey Lu', 'Skrillex']",0.713,0.639,9,-8.404,1,0.17,0.00198,0.352,0.0394,103.986,279240,4
+82,5wN0Qf0iHLcWbCugUtQLNp,Gosh,Jamie xx,['Jamie xx'],0.753,0.46,10,-12.285,0,0.0166,0.787,0.0918,0.38,139.447,291019,4
+83,4YBDSEzVNQbvCvVIWNtruF,The Louvre,Lorde,['Lorde'],0.664,0.382,0,-9.977,1,0.239,0.00763,0.0943,0.126,123.214,271088,4
+84,5OrwxmwjaO9p2iyF8BXyRj,Laal Ishq,Arijit Singh,['Arijit Singh'],0.504,0.671,3,-5.792,1,0.0343,0.0,0.309,0.447,105.957,387170,4
+85,0lCfUyNC5NAsfILnKEVj23,Follow My Girl,The Japanese House,['The Japanese House'],0.576,0.734,0,-6.38,0,0.228,4.8e-06,0.141,0.48,98.837,244686,4
+86,3cdcT7I1xnQqQ84zMCtrKU,Hyperreal,Flume,"['Flume', 'KUČKA']",0.677,0.842,11,-5.204,0,0.0345,0.0742,0.153,0.543,110.036,254063,4
+87,7aZsTdQGRdbOhxBWA7ZMHv,There’s A Honey,Pale Waves,['Pale Waves'],0.486,0.869,2,-4.013,1,0.000237,2.6e-05,0.0983,0.114,121.866,230928,4
+88,79sPwbig6EUhjCVZ0riWJQ,Pankh,Seedhe Maut,"['Seedhe Maut', 'Sez on the Beat', 'Bawari Basanti']",0.774,0.55,11,-9.127,0,0.245,0.0,0.112,0.607,108.005,227784,4
+89,5W5K3zpDX9yhhGOc0Hvvl4,Are You Not Afraid,deadmau5,"['deadmau5', 'SHOTTY HORROH']",0.809,0.844,11,-5.104,1,0.102,9.99e-05,0.313,0.934,84.996,190930,4
+90,22tD1L3AXFs1pYEygkQGAT,Maybe You're the Reason,The Japanese House,['The Japanese House'],0.621,0.762,5,-6.376,1,0.106,2.71e-06,0.302,0.395,95.014,218936,4
+91,310xF17abXDaKlq0gwv50l,Sundara,ODESZA,['ODESZA'],0.583,0.694,6,-10.049,1,0.0568,0.751,0.0846,0.13,120.147,136000,4
+92,6Qs4SXO9dwPj5GKvVOv8Ki,Dancing With A Stranger (with Normani),Sam Smith,"['Sam Smith', 'Normani']",0.741,0.52,8,-7.513,1,0.45,1.97e-06,0.222,0.347,102.998,171030,4
+93,30bqVoKjX479ab90a8Pafp,Star Shopping,Lil Peep,['Lil Peep'],0.585,0.471,4,-9.934,0,0.0967,0.0184,0.115,0.323,93.099,142000,4
+94,2ILiGMW2LxEusz0jMQLoLM,Galaxies,Laura Veirs,['Laura Veirs'],0.483,0.492,9,-8.014,0,0.0244,8.5e-05,0.107,0.447,79.924,215600,4
+95,4jGEOzd4KKiXmkks3YKvhl,Weird Honey,Elvis Depressedly,['Elvis Depressedly'],0.573,0.499,6,-7.912,1,0.109,0.854,0.15,0.519,89.977,155937,4
+96,6Kynli1iHBqJRWUCohcV9h,Kaam 25 - Sacred Games,DIVINE,['DIVINE'],0.484,0.948,1,-4.296,0,0.0473,0.0,0.0565,0.686,125.645,149525,5
+97,7hf89cT5FEmLV5E9fjrjG7,Beamer Boy,Lil Peep,['Lil Peep'],0.743,0.732,8,-4.511,1,0.0509,1.77e-05,0.227,0.339,123.994,203373,4
+98,79pwC8XxC2LKUndcohRx2g,Kranti - Welcome to Bayaan,Seedhe Maut,"['Seedhe Maut', 'Sez on the Beat']",0.729,0.498,7,-10.26,1,0.306,0.0,0.292,0.557,157.694,120032,4
+99,0d4qCmNoQ7D8Hv0azn7Ozu,La Vie En Rose,Lucy Dacus,['Lucy Dacus'],0.546,0.497,1,-12.179,0,0.171,0.00205,0.278,0.252,155.963,170504,4
