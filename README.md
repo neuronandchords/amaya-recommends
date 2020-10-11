@@ -1,2 +1,7 @@
+Different Music Taste Comparisions
 ![bar_chart_comparision](data/Mean_Feature_Similarilty_AmayaVSSid.png)
-![artist_graph](data/Amaya_Artist Graph.tiff)
+
+Same Music Taste Comparisions 
+![bar_chart_comparision](data/Mean_Feature_Similarilty_AmayaVSShashwat.tiff)
+
+
